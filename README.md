@@ -35,4 +35,4 @@ This repository does the following:
 - `waf.tf` Turns Cloudflare Miscellaneous WAF Ruleset to `on`
 - `waf.tf` Sets Cloudflare Specials WAF rule 100000 to `simulate`
 - `waf.tf` Sets Cloudflare Specials WAF rule 100015 to `challenge`
-- `waf.tf` Creates a non-HTTP (Cloudflare Spectrum) application at ssh.example.com over a VM instance SSH port
+- `spectrum.tf` Creates a non-HTTP (Cloudflare Spectrum) application at ssh.example.com over a VM instance SSH port
