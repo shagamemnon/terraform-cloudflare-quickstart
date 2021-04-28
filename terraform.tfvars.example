@@ -1,0 +1,5 @@
+cloudflare_zone = "YOUR APEX ZONE (e.g. example.com)"
+cloudflare_zone_id = "YOUR CLOUDFLARE ZONE ID"
+cloudflare_account_id = "YOUR CLOUDFLARE ACCOUNT ID"
+cloudflare_email = "YOUR CLOUDFLARE ACCOUNT EMAIL"
+cloudflare_api_token = "CLOUDFLARE API TOKEN"
