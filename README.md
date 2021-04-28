@@ -25,7 +25,7 @@ This repository does the following:
 
 - `dns.tf` Creates DNS records for several end points
 - `firewallrules.tf` Creates Firewall Rules filters, and implements various Firewall Rules actions
-- `ratelimi.tf` Creates sample rate limiting rules
+- `ratelimit.tf` Creates sample rate limiting rules
 - `waf.tf` Changes OWASP rule set to `Medium` sensitivity with a `Simulate` action
 - `waf.tf` Turns `on` the OWASP Bad Robots rule group
 - `waf.tf` Turns `on` the OWASP URI XSS rule group
